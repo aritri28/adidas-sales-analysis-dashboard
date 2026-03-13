@@ -67,10 +67,6 @@ Key variables include:
 - Strengthen partnerships with high-performing retailers
 
 ## Dashboard Preview
-<img width="749" height="564" alt="Sales_Analysis 2" src="https://github.com/user-attachments/assets/0f1a0a37-3f59-45f7-b759-dcdf61e60718" />
-<img width="1131" height="597" alt="Sales Performance Analysis" src="https://github.com/user-attachments/assets/e24644a8-7764-4123-8c54-631fe2ccab4e" />
-<img width="615" height="554" alt="PRODUCT_DETAILS" src="https://github.com/user-attachments/assets/7ad959dd-6421-4231-b0a8-d5ecc8e1762a" />
-<img width="1073" height="581" alt="Executive Sales Overview" src="https://github.com/user-attachments/assets/846a7bc4-d48c-4462-aac7-36e661a0a3c6" />
 
 ### Executive Sales Overview
 ![Executive Sales Overview]<img width="1073" height="581" alt="Executive Sales Overview" src="https://github.com/user-attachments/assets/846a7bc4-d48c-4462-aac7-36e661a0a3c6" />
